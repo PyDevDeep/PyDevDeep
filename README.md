@@ -34,7 +34,7 @@ I specialize in building **intelligent agents** and **automated workflows** that
 
 ### 📊 GitHub Analytics
 
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=PyDevDeep&show_icons=true&theme=tokyonight&hide_border=true&custom_title=PyDevDeep%27s%20AI%20Stats" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PyDevDeep&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   &nbsp;&nbsp;
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyDevDeep&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
 
