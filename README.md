@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Serhii | PyDevDeep 🚀
 
-<!--
-**PyDevDeep/PyDevDeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI Automation Engineer & Python Developer
+I specialize in building **intelligent agents** and **automated workflows** that bridge the gap between complex AI logic and real-world business efficiency.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-E502A0?style=for-the-badge&logo=Make&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🔭 What I'm working on
+- 🤖 **Autonomous RAG Systems:** Building agents that interact with internal company data securely.
+- ⚡ **N8n & Python:** Creating hybrid automations where no-code meets custom complex scripts.
+- 🔄 **Make.com Workflows:** Orchestrating complex multi-app integrations and connecting them with AI logic.
+- 🛡️ **Cybersecurity-First AI:** Ensuring API security and data protection in every workflow.
+
+
+<div align="center">
+
+### 📊 GitHub Analytics
+
+<!-- Main Stats using a stable mirror -->
+  <img align="top" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PyDevDeep&show_icons=true&theme=tokyonight&hide_border=true&custom_title=PyDevDeep%27s%20AI%20Stats" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+   <!-- Alternative: Streak Stats (different service, usually more stable) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PyDevDeep&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br/><br/>
+
+ <!-- Top Languages using a stable mirror -->
+  <img align="top" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PyDevDeep&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
+
+</div>
