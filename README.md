@@ -4,7 +4,9 @@
 
 ### 🤖 AI Automation Engineer & Python Developer
 
-*Building intelligent systems that turn complex AI logic into real business value*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Automation+Engineer+%7C+Python+Developer;Building+RAG+Pipelines+%26+LLM+Integrations;Voice+AI+Agents+%7C+Bots+%7C+MVP+Development" alt="Typing SVG" />
+</p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=PyDevDeep&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/PyDevDeep)
 
@@ -18,7 +20,6 @@ Python backend engineer with **6+ years of experience** and **2 years specializi
 
 I focus on writing clean, maintainable code and delivering systems that actually work in production — not just demos.
 
-```python
 class PyDevDeep:
     name       = "Serhii"
     role       = "AI Automation Engineer & Python Developer"
@@ -26,7 +27,6 @@ class PyDevDeep:
     focus      = ["LLM Integration", "RAG Pipelines", "AI Agents",
                   "Voice AI", "Bot Development", "ETL Pipelines"]
     currently  = "Building production-grade AI systems for businesses"
-```
 
 ---
 
