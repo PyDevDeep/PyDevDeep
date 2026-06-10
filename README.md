@@ -16,10 +16,6 @@
 
 ## 🧠 About Me
 
-Python backend engineer with **6+ years of experience** and **2 years specializing in AI automation**. I build production-ready AI systems — from RAG pipelines and LLM integrations to voice agents and full-stack AI MVPs.
-
-I focus on writing clean, maintainable code and delivering systems that actually work in production — not just demos.
-
 - 🌍 Based in Ukraine, working with clients worldwide
 - 🐍 6+ years of Python development
 - 🤖 2+ years specializing in AI automation & LLM integration
