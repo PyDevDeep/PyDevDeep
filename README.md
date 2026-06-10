@@ -49,6 +49,8 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Facebook Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
 
 **Voice AI**
 
@@ -56,7 +58,10 @@
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white)
 ![Vapi](https://img.shields.io/badge/Vapi.ai-6366F1?style=for-the-badge&logoColor=white)
 ![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logoColor=black)
-
+![Ultravox](https://img.shields.io/badge/Ultravox-6366F1?style=for-the-badge&logoColor=white)
+![Retell AI](https://img.shields.io/badge/Retell_AI-000000?style=for-the-badge&logoColor=white)
+![Cartesia](https://img.shields.io/badge/Cartesia_Sonic-DC2626?style=for-the-badge&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-FF4F00?style=for-the-badge&logoColor=white)
 **Automation & Data**
 
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
@@ -71,7 +76,8 @@
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
-
+![Weaviate](https://img.shields.io/badge/Weaviate-00BB77?style=for-the-badge&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logoColor=white)
 ---
 
 ## 🔭 What I'm Working On
