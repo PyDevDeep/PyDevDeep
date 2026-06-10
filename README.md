@@ -62,6 +62,7 @@
 ![Retell AI](https://img.shields.io/badge/Retell_AI-000000?style=for-the-badge&logoColor=white)
 ![Cartesia](https://img.shields.io/badge/Cartesia_Sonic-DC2626?style=for-the-badge&logoColor=white)
 ![LiveKit](https://img.shields.io/badge/LiveKit-FF4F00?style=for-the-badge&logoColor=white)
+
 **Automation & Data**
 
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
@@ -78,6 +79,9 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-00BB77?style=for-the-badge&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logoColor=white)
+![LanceDB](https://img.shields.io/badge/LanceDB-FF6B35?style=for-the-badge&logoColor=white)
+![Turbopuffer](https://img.shields.io/badge/Turbopuffer-1A1A2E?style=for-the-badge&logoColor=white)
+
 ---
 
 ## 🔭 What I'm Working On
