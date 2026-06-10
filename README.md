@@ -20,13 +20,12 @@ Python backend engineer with **6+ years of experience** and **2 years specializi
 
 I focus on writing clean, maintainable code and delivering systems that actually work in production — not just demos.
 
-class PyDevDeep:
-    name       = "Serhii"
-    role       = "AI Automation Engineer & Python Developer"
-    experience = "6+ years Python | 2+ years AI Automation"
-    focus      = ["LLM Integration", "RAG Pipelines", "AI Agents",
-                  "Voice AI", "Bot Development", "ETL Pipelines"]
-    currently  = "Building production-grade AI systems for businesses"
+- 🌍 Based in Ukraine, working with clients worldwide
+- 🐍 6+ years of Python development
+- 🤖 2+ years specializing in AI automation & LLM integration
+- 🔧 Building RAG pipelines, Voice AI agents, bots & full-stack AI MVPs
+- 🛡️ Cybersecurity background — security-first approach in every build
+- ⚡ Focused on production-ready code, not just demos
 
 ---
 
