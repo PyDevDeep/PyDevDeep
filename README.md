@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-- 🌍 Based in Ukraine, working with clients worldwide
+- 🌍 Based in EU, working with clients worldwide
 - 🐍 6+ years of Python development
 - 🤖 2+ years specializing in AI automation & LLM integration
 - 🔧 Building RAG pipelines, Voice AI agents, bots & full-stack AI MVPs
